@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#87CEEB" /> <!-- Sky blue color -->
+
+    <!-- Rounded corners -->
+    <corners android:radius="25dp" /> <!-- Adjust radius for how circular you want the corners -->
+
+    <!-- Button padding (optional) -->
+    <padding
+        android:left="10dp"
+        android:right="10dp"
+        android:top="5dp"
+        android:bottom="5dp"/>
+</shape>
